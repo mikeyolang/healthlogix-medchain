@@ -35,7 +35,7 @@ The Nurse-Patient Management DApp is a decentralized application designed to str
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/mikeyolang/healthlogix-medchain.git
-   cd nurse-patient-dapp
+   cd healthlogix-medchain
 ## Install Dependencies:
 
 Follow the installation instructions for the DFINITY SDK and Motoko.
