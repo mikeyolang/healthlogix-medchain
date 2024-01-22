@@ -1,4 +1,4 @@
-# Nurse-Patient Management DApp
+# MedChain Nurse-Patient Management DApp
 
 ## Overview
 
