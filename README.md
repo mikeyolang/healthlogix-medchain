@@ -34,7 +34,7 @@ The Nurse-Patient Management DApp is a decentralized application designed to str
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/nurse-patient-dapp.git
+   git clone https://github.com/mikeyolang/healthlogix-medchain.git
    cd nurse-patient-dapp
 ## Install Dependencies:
 
