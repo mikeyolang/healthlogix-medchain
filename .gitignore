@@ -22,3 +22,8 @@ dist/
 
 # environment variables
 .env
+# Ignore everything
+/*
+
+# Include Motoko files
+!/**/*.mo
